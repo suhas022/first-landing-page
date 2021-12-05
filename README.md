@@ -1,2 +1,2 @@
 # first-landing-page
-Thank you pexel.com for the free photos.
+Thank you www.pexels.com for the free photos.
